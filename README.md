@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+> ![:GothicOS](https://count.getloli.com/get/@:GothicOS)
