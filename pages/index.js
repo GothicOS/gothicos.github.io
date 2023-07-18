@@ -78,27 +78,13 @@ export default function Home() {
           background-image: url('/bg.jpg');
           background-position: center;
           background-size: cover;
+          height: 100%;
           background-repeat: no-repeat;
           padding: 0;
           margin: 0;
-        }
-        @keyframes eerieAnimation {
-          0% {
-            color: inherit;
-            transform: scale(1);
-          }
-          50% {
-            color: whitesmoke;
-            transform: scale(1.2);
-          }
-          100% {
-            color: inherit;
-            transform: scale(1);
-          }
-        }
+        } 
         a:hover {
-          animation: eerieAnimation 1s infinite;
-          transform-origin: center;
+          color: whitesmoke
         }
         * {
           box-sizing: border-box;
