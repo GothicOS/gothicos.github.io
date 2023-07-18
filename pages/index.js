@@ -76,10 +76,10 @@ export default function Home() {
         html,
         body {
           background-image: url('/bg.jpg');
+          background-repeat: no-repeat;
           background-position: center;
           background-size: cover;
-          height: 100%;
-          background-repeat: no-repeat;
+          overflow: hidden;
           padding: 0;
           margin: 0;
         } 
