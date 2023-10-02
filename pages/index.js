@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}> 
-          Welcome to <a href="https://gothicos.github.io/">Gothic&nbsp;OS</a>!
+          Welcome to <a href="https://gothicos.vercel.app/">Gothic&nbsp;OS</a>!
         </h1>
         <p>Accompany us in this realm of ceaseless darkness.</p>
         <div className={styles.grid}>
