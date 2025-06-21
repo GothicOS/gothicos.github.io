@@ -17,7 +17,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="#" className={styles.card}>
             <h3>What is Gothic OS?</h3>
-            <p>Gothic OS is a Linux Operating System created especially for people who fancy Goth culture.</p>
+            <p>Honestly, I'm not even sure myself so let's see where this goes.</p>
           </a>
           <a href="#" className={styles.card}>
             <h3>Download &mdash; Beta</h3>
